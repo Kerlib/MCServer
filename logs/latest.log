@@ -1,0 +1,153 @@
+[14:29:04] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[14:29:04] [main/INFO]: Reloading ResourceManager: Default, bukkit
+[14:29:05] [Worker-Main-10/INFO]: Loaded 7 recipes
+[14:29:09] [Server thread/INFO]: Starting minecraft server version 1.17
+[14:29:09] [Server thread/INFO]: Loading properties
+[14:29:09] [Server thread/INFO]: Default game type: SURVIVAL
+[14:29:09] [Server thread/INFO]: Generating keypair
+[14:29:10] [Server thread/INFO]: Starting Minecraft server on *:25565
+[14:29:10] [Server thread/INFO]: Using default channel type
+[14:29:11] [Server thread/INFO]: This server is running CraftBukkit version 3131-Bukkit-c9a92ad (MC: 1.17) (Implementing API version 1.17-R0.1-SNAPSHOT)
+[14:29:11] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[14:29:11] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[14:29:11] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[14:29:11] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[14:29:11] [Server thread/INFO]: Preparing level "Bitcoin"
+[14:29:12] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[14:29:12] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[14:29:12] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[14:29:13] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[14:29:13] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[14:29:14] [Worker-Main-14/INFO]: Preparing spawn area: 4%
+[14:29:14] [Worker-Main-8/INFO]: Preparing spawn area: 6%
+[14:29:16] [Worker-Main-12/INFO]: Preparing spawn area: 15%
+[14:29:16] [Worker-Main-12/INFO]: Preparing spawn area: 15%
+[14:29:16] [Worker-Main-12/INFO]: Preparing spawn area: 15%
+[14:29:16] [Worker-Main-8/INFO]: Preparing spawn area: 23%
+[14:29:17] [Worker-Main-8/INFO]: Preparing spawn area: 36%
+[14:29:17] [Worker-Main-13/INFO]: Preparing spawn area: 57%
+[14:29:18] [Worker-Main-12/INFO]: Preparing spawn area: 62%
+[14:29:18] [Worker-Main-11/INFO]: Preparing spawn area: 78%
+[14:29:19] [Server thread/INFO]: Time elapsed: 7496 ms
+[14:29:19] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[14:29:19] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[14:29:20] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[14:29:20] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[14:29:21] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[14:29:21] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[14:29:22] [Worker-Main-11/INFO]: Preparing spawn area: 3%
+[14:29:22] [Worker-Main-13/INFO]: Preparing spawn area: 4%
+[14:29:23] [Worker-Main-8/INFO]: Preparing spawn area: 8%
+[14:29:23] [Worker-Main-13/INFO]: Preparing spawn area: 9%
+[14:29:24] [Worker-Main-14/INFO]: Preparing spawn area: 11%
+[14:29:24] [Worker-Main-11/INFO]: Preparing spawn area: 17%
+[14:29:25] [Worker-Main-8/INFO]: Preparing spawn area: 27%
+[14:29:25] [Worker-Main-8/INFO]: Preparing spawn area: 53%
+[14:29:26] [Worker-Main-14/INFO]: Preparing spawn area: 57%
+[14:29:26] [Worker-Main-13/INFO]: Preparing spawn area: 64%
+[14:29:27] [Worker-Main-12/INFO]: Preparing spawn area: 66%
+[14:29:27] [Worker-Main-12/INFO]: Preparing spawn area: 89%
+[14:29:28] [Server thread/INFO]: Time elapsed: 8690 ms
+[14:29:28] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[14:29:28] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[14:29:28] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[14:29:29] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[14:29:29] [Worker-Main-11/INFO]: Preparing spawn area: 0%
+[14:29:30] [Worker-Main-13/INFO]: Preparing spawn area: 3%
+[14:29:30] [Worker-Main-13/INFO]: Preparing spawn area: 21%
+[14:29:31] [Worker-Main-8/INFO]: Preparing spawn area: 27%
+[14:29:31] [Worker-Main-8/INFO]: Preparing spawn area: 59%
+[14:29:32] [Worker-Main-14/INFO]: Preparing spawn area: 72%
+[14:29:32] [Worker-Main-10/INFO]: Preparing spawn area: 93%
+[14:29:32] [Server thread/INFO]: Time elapsed: 4581 ms
+[14:29:32] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[14:29:32] [Server thread/INFO]: Done (21.236s)! For help, type "help"
+[14:37:55] [Server thread/INFO]: Ethereum[/192.168.0.1:53539] logged in with entity id 327 at ([Bitcoin]72.09647079242133, 81.0, -52.41561855346208)
+[14:38:56] [Server thread/INFO]: Kerlib[/221.143.223.109:62342] logged in with entity id 478 at ([Bitcoin]66.91242792241302, 79.0, -53.65213712882098)
+[14:39:01] [Netty Server IO #1/INFO]: <Ethereum> ¤¾¤·[m
+[14:39:05] [Netty Server IO #1/INFO]: <Ethereum> ³Ê ¿Ö ¼­¹ö ¾Èµé¾î¿È[m
+[14:39:10] [Netty Server IO #3/INFO]: <Kerlib> ¤¸¤µ[m
+[14:39:23] [Netty Server IO #1/INFO]: <Ethereum> ÇÏ³ªµµ ¾È±¦Âú¾Æ[m
+[14:39:41] [Netty Server IO #1/INFO]: <Ethereum> I go to the nether[m
+[14:39:46] [Netty Server IO #3/INFO]: <Kerlib> ¤¡¤§[m
+[14:40:27] [Netty Server IO #3/INFO]: <Kerlib> ¤¡[m
+[14:40:37] [Netty Server IO #1/INFO]: <Ethereum> ¾ß Âü°í·Î[m
+[14:40:40] [Netty Server IO #1/INFO]: <Ethereum> ³­ÀÌµµ ¼ö½Ã¿òÀÌ´Ù[m
+[14:40:47] [Netty Server IO #3/INFO]: <Kerlib> ´ÔÀÌ¹Ì³×´õ?[m
+[14:40:47] [Netty Server IO #1/INFO]: <Ethereum> ½¬¿ò[m
+[14:40:52] [Netty Server IO #1/INFO]: <Ethereum> ¤·¤·[m
+[14:41:19] [Netty Server IO #1/INFO]: <Ethereum> ¤µ³Ê ¤·¤§?[m
+[14:41:32] [Netty Server IO #3/INFO]: <Kerlib> ³ª ¿©±â´Ù¸¥Áö¿Á¹®À¸·Îµé¾î¿È[m
+[14:41:45] [Netty Server IO #1/INFO]: <Ethereum> ³ª¿À»ï[m
+[14:42:09] [Netty Server IO #1/INFO]: <Ethereum> follow me[m
+[14:42:27] [Netty Server IO #1/INFO]: <Ethereum> ³Ê ¼®¿µ ¸ÔÁö¸¶»ï[m
+[14:43:28] [Server thread/INFO]: Ethereum lost connection: Disconnected
+[14:43:28] [Server thread/INFO]: Ethereum left the game
+[14:43:30] [Server thread/INFO]: Ethereum[/192.168.0.1:56790] logged in with entity id 1527 at ([Bitcoin_nether]37.47024028353196, 12.13633258056502, -112.92257980201484)
+[14:43:33] [Server thread/INFO]: Ethereum lost connection: Disconnected
+[14:43:33] [Server thread/INFO]: Ethereum left the game
+[14:43:34] [Server thread/INFO]: Ethereum[/192.168.0.1:56794] logged in with entity id 1533 at ([Bitcoin_nether]37.32420802617973, 12.0, -114.403860026818)
+[14:43:37] [Server thread/INFO]: Ethereum lost connection: Disconnected
+[14:43:37] [Server thread/INFO]: Ethereum left the game
+[14:43:38] [Server thread/INFO]: Ethereum[/192.168.0.1:56797] logged in with entity id 1535 at ([Bitcoin_nether]38.69999998807907, 12.008120475110008, -115.22968502642715)
+[14:43:51] [Server thread/INFO]: Ethereum lost connection: Disconnected
+[14:43:51] [Server thread/INFO]: Ethereum left the game
+[14:43:52] [Server thread/INFO]: Ethereum[/192.168.0.1:56801] logged in with entity id 1553 at ([Bitcoin_nether]38.133251061728174, 15.0, -123.688349969103)
+[14:44:21] [Server thread/INFO]: Kerlib tried to swim in lava to escape Hoglin
+[14:44:42] [Netty Server IO #3/INFO]: <Kerlib> ¾Æ´Ï½Ã¹ß[m
+[14:44:43] [Server thread/INFO]: Ethereum issued server command: /reload
+[14:44:43] [Server thread/INFO]: Ethereum: [0;31;1mPlease note that this command is not supported and may cause issues when using some plugins.[m
+[14:44:43] [Server thread/INFO]: Ethereum: [0;31;1mIf you encounter any issues please use the /stop command to restart your server.[m
+[14:44:43] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[14:44:44] [Server thread/INFO]: Loaded 7 recipes
+[14:44:44] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[14:44:45] [Server thread/INFO]: Loaded 7 recipes
+[14:44:45] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[14:44:45] [Netty Server IO #3/INFO]: <Kerlib> ³»26·¦[m
+[14:44:45] [Server thread/INFO]: Ethereum: [0;32;1mReload complete.[m
+[14:45:04] [Netty Server IO #11/INFO]: <Ethereum> ¾Æ Á¿°£¤¼³×[m
+[14:45:07] [Server thread/INFO]: Ethereum issued server command: /difficulty
+[14:45:14] [Netty Server IO #11/INFO]: <Ethereum> ³ª¸Ó³Ê °£´Ù ±×·³[m
+[14:45:17] [Netty Server IO #11/INFO]: <Ethereum> ¸ÕÀú[m
+[14:47:23] [Netty Server IO #3/INFO]: <Kerlib> ¤·´Ô ¤·¤§[m
+[14:47:29] [Netty Server IO #11/INFO]: <Ethereum> ³×´õ[m
+[14:47:43] [Netty Server IO #11/INFO]: <Ethereum> ?[m
+[14:47:52] [Netty Server IO #3/INFO]: <Kerlib> ´Ô[m
+[14:47:57] [Netty Server IO #3/INFO]: <Kerlib> ÇÒ¸»ÀÖÀ½[m
+[14:48:01] [Netty Server IO #11/INFO]: <Ethereum> what[m
+[14:48:14] [Netty Server IO #3/INFO]: <Kerlib> ´Ô 30¤©¹èÂïÀ¸¸é ±èÁÖºó¾Ö¹ÌÀÇ »ç¶óÀÇ¸Å ±×°Å ÀÎÃ¾Æ®Á» ´ë½ÅÇØÁÖ»ï[m
+[14:48:31] [Netty Server IO #3/INFO]: <Kerlib> ³ªµÎ Ä®Áà[m
+[14:48:37] [Netty Server IO #11/INFO]: <Ethereum> already peaceful[m
+[14:48:41] [Netty Server IO #3/INFO]: <Kerlib> ¤µ[m
+[14:49:47] [Netty Server IO #3/INFO]: <Kerlib> ?[m
+[14:50:56] [Netty Server IO #3/INFO]: <Kerlib> Ä®Á»[m
+[14:51:01] [Netty Server IO #3/INFO]: <Kerlib> ³»Ã¶Ä®[m
+[14:51:05] [Netty Server IO #11/INFO]: <Ethereum> ³Ê ¿ë¾Ï¿¡[m
+[14:51:07] [Netty Server IO #11/INFO]: <Ethereum> Å¿ÀÝ¾Æ[m
+[14:52:36] [Netty Server IO #3/INFO]: <Kerlib> Àú¿îÁöÇÏ°í Áý°¬´Ù¿È[m
+[14:52:40] [Netty Server IO #11/INFO]: <Ethereum> ¤·¤·[m
+[14:52:52] [Server thread/INFO]: Kerlib tried to swim in lava
+[14:53:05] [Netty Server IO #3/INFO]: <Kerlib> ³ë¹«¹«Â¯ ¿ÂÃµ¿¡°¡´Ù[m
+[14:55:05] [Netty Server IO #11/INFO]: <Ethereum> ¾Æ½Ã¹ß[m
+[14:55:10] [Netty Server IO #11/INFO]: <Ethereum> ³×´õ¶ûÆ¼¤Ñ ´õ·´°Ô ¾È³ª¿À³×[m
+[14:57:05] [Netty Server IO #11/INFO]: <Ethereum> ¾ß[m
+[14:57:11] [Netty Server IO #11/INFO]: <Ethereum> ³ªÀÌÁ¦ ÇÐ¿øÁØºñÇØ¤·ÇÔ[m
+[14:57:14] [Netty Server IO #3/INFO]: <Kerlib> ³ªµÎ[m
+[14:57:16] [Netty Server IO #11/INFO]: <Ethereum> ¤·¤²[m
+[14:57:17] [Server thread/INFO]: Ethereum lost connection: Disconnected
+[14:57:17] [Server thread/INFO]: Ethereum left the game
+[14:57:24] [Server thread/INFO]: Kerlib lost connection: Disconnected
+[14:57:24] [Server thread/INFO]: Kerlib left the game
+[15:03:12] [Server thread/INFO]: Stopping the server
+[15:03:12] [Server thread/INFO]: Stopping server
+[15:03:12] [Server thread/INFO]: Saving players
+[15:03:12] [Server thread/INFO]: Saving worlds
+[15:03:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Bitcoin]'/minecraft:overworld
+[15:03:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (Bitcoin): All chunks are saved
+[15:03:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Bitcoin_nether]'/minecraft:the_nether
+[15:03:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15:03:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Bitcoin_the_end]'/minecraft:the_end
+[15:03:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15:03:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (Bitcoin): All chunks are saved
+[15:03:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15:03:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
